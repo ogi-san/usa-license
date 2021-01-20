@@ -1,6 +1,8 @@
 # うさについて
 https://github.com/ogi-san/usa-license/blob/main/README.md
+
 「うさ」とはうさぎとビーコンを組み合わせたオリジナルキャラクターのことです。
+
 本キャラクターは荻ノ沢実佑が制作しました。
 
 ## 利用方法について
