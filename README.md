@@ -12,5 +12,5 @@ https://github.com/ogi-san/usa-license/blob/main/README.md
 非営利目的での利用である場合、自由です。
 クレジット表記も不要です。
 
-（アバターOK/二次創作OK/暴力表現NG/性的表現OK/商用NG）
+（アバターOK/二次創作OK/暴力・グロテスク表現NG/差別表現NG/性的表現OK/商用NG）
 
